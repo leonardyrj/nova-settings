@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Cache;
 
 if (!function_exists('settings')) {
     /**
-     * settings
+     * settings helpers
      *
      * @param  string|null $section
      * @param  string|null $key
